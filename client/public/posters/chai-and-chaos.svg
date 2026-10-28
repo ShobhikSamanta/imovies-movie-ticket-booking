@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#92400e"/><stop offset="1" stop-color="#be123c"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".42" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".82"/></linearGradient>
+</defs>
+<rect width="300" height="450" fill="url(#bg)"/>
+<g><path d="M85 150 L215 150 L200 240 Q150 270 100 240 Z" fill="#fcd34d"/><path d="M215 165 Q265 165 255 205 Q245 232 205 228" fill="none" stroke="#fcd34d" stroke-width="12"/><ellipse cx="150" cy="150" rx="65" ry="12" fill="#7c2d12"/><ellipse cx="150" cy="268" rx="95" ry="10" fill="#000" opacity=".25"/><g stroke="#fff" stroke-width="6" stroke-linecap="round" fill="none" opacity=".75"><path d="M125 128 Q108 100 125 74 Q142 48 125 22"/><path d="M160 128 Q143 100 160 74 Q177 48 160 22"/><path d="M195 128 Q178 100 195 74 Q212 48 195 22"/></g></g>
+<rect width="300" height="450" fill="url(#fade)"/>
+<text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#fff" opacity=".85">COMEDY • HINDI</text>
+<text x="150" y="348.48" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="44" fill="#fff" letter-spacing="1">CHAI &amp;</text><text x="150" y="396" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="44" fill="#fff" letter-spacing="1">CHAOS</text>
+<text x="150" y="424" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#fcd34d">Every cup has a story</text>
+<rect x="1.5" y="1.5" width="297" height="447" fill="none" stroke="#fff" stroke-opacity=".15" stroke-width="3"/>
+</svg>

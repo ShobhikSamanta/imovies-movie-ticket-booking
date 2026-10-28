@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c2410c"/><stop offset="1" stop-color="#db2777"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".42" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".82"/></linearGradient>
+</defs>
+<rect width="300" height="450" fill="url(#bg)"/>
+<g><circle cx="150" cy="160" r="82" fill="#fde047"/><rect x="0" y="205" width="300" height="100" fill="#0e7490" opacity=".85"/><rect x="60" y="215" width="180" height="4" fill="#fde047" opacity="0.8"/><rect x="66" y="229" width="168" height="4" fill="#fde047" opacity="0.68"/><rect x="72" y="243" width="156" height="4" fill="#fde047" opacity="0.56"/><rect x="78" y="257" width="144" height="4" fill="#fde047" opacity="0.44000000000000006"/><rect x="84" y="271" width="132" height="4" fill="#fde047" opacity="0.32000000000000006"/><g stroke="#052e16" stroke-width="6" stroke-linecap="round" fill="none"><path d="M235 205 Q240 140 232 105"/></g><path d="M232 105 Q205 82 180 100 M232 105 Q232 70 205 58 M232 105 Q262 76 290 92 M232 105 Q265 108 280 135" stroke="#052e16" stroke-width="7" fill="none" stroke-linecap="round"/></g>
+<rect width="300" height="450" fill="url(#fade)"/>
+<text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#fff" opacity=".85">ADVENTURE • HINDI</text>
+<text x="150" y="358.2" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="35" fill="#fff" letter-spacing="1">LAST TRAIN</text><text x="150" y="396" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="35" fill="#fff" letter-spacing="1">TO GOA</text>
+<text x="150" y="424" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#fde047">The best trips are unplanned</text>
+<rect x="1.5" y="1.5" width="297" height="447" fill="none" stroke="#fff" stroke-opacity=".15" stroke-width="3"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#064e3b"/><stop offset="1" stop-color="#065f46"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".42" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".82"/></linearGradient>
+</defs>
+<rect width="300" height="450" fill="url(#bg)"/>
+<g><circle cx="150" cy="130" r="95" fill="#6ee7b7" opacity=".22"/><rect x="113" y="120" width="10" height="150" rx="4" fill="#fef3c7"/><rect x="145" y="120" width="10" height="150" rx="4" fill="#fef3c7"/><rect x="177" y="120" width="10" height="150" rx="4" fill="#fef3c7"/><rect x="112" y="112" width="42" height="8" rx="3" fill="#fbbf24"/><rect x="146" y="112" width="42" height="8" rx="3" fill="#fbbf24"/><circle cx="235" cy="95" r="26" fill="#dc2626"/><path d="M215 80 Q235 95 215 112 M255 80 Q235 95 255 112" stroke="#fff" stroke-width="2.5" fill="none"/><path d="M0 280 Q150 230 300 280 L300 300 L0 300 Z" fill="#022c22" opacity=".6"/></g>
+<rect width="300" height="450" fill="url(#fade)"/>
+<text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#fff" opacity=".85">DRAMA • ENGLISH</text>
+<text x="150" y="348.48" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="44" fill="#fff" letter-spacing="1">THE LAST</text><text x="150" y="396" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="44" fill="#fff" letter-spacing="1">INNING</text>
+<text x="150" y="424" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#6ee7b7">One more chance to win</text>
+<rect x="1.5" y="1.5" width="297" height="447" fill="none" stroke="#fff" stroke-opacity=".15" stroke-width="3"/>
+</svg>

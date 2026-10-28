@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7c2d12"/><stop offset="1" stop-color="#a21caf"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".42" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".82"/></linearGradient>
+</defs>
+<rect width="300" height="450" fill="url(#bg)"/>
+<g><circle cx="150" cy="110" r="78" fill="#fde68a" opacity=".3"/><path d="M70 300 L70 150 Q70 60 150 60 Q230 60 230 150 L230 300 Z" fill="#1f0a1f" opacity=".75" stroke="#fde68a" stroke-width="5"/><path d="M95 300 L95 160 Q95 92 150 92 Q205 92 205 160 L205 300 Z" fill="none" stroke="#fde68a" stroke-width="3" opacity=".8"/><path d="M150 180 C150 165 128 165 128 183 C128 202 150 212 150 224 C150 212 172 202 172 183 C172 165 150 165 150 180 Z" fill="#fde68a"/></g>
+<rect width="300" height="450" fill="url(#fade)"/>
+<text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#fff" opacity=".85">ROMANCE • HINDI</text>
+<text x="150" y="396" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="39" fill="#fff" letter-spacing="1">AASHIYANA</text>
+<text x="150" y="424" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#fde68a">A home for two hearts</text>
+<rect x="1.5" y="1.5" width="297" height="447" fill="none" stroke="#fff" stroke-opacity=".15" stroke-width="3"/>
+</svg>
